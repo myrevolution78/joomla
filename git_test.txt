@@ -1,2 +1,3 @@
 test direkt in github file angelegt
 jo und jetzt bin ich im aptana studio und bearbeite das mal..
+und ier wird jetzt ach bearbeitet im aptana studio 3...
